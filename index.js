@@ -5,4 +5,4 @@ const newHeader = document.createElement("h1");
 
 newHeader.setAttribute("id", "victory");
 const yourName = "Nicholas njeru";
-newHeader.textContent = "YOUR-NAME is the champion";
+newHeader.textContent = `${yourName}is the champion`;
